@@ -10,12 +10,6 @@ Technologies Used
 HTML5
 CSS3
 Installation
-To view the project locally, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/udemy-clone.git
 
 Open index.html in your preferred web browser.
 Usage
